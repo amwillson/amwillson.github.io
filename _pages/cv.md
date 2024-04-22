@@ -16,15 +16,15 @@ editor_options:
 
 **University of Notre Dame**
                                                         Notre Dame, IN\
-Ph.D., Biological Sciences 2025 (expected)
+Ph.D., Biological Sciences                                                         2025 (expected)
 
-**Aquinas College** Grand Rapids, MI B.S., Biology and Spanish 2019
+**Aquinas College**                                                         Grand Rapids, MI B.S., Biology and Spanish                                                         2019
 Summa cum laude
 
 # Research experience
 
-**University of Notre Dame** Notre Dame, IN *Graduate Research
-Assistant, Biological Sciences* August
+**University of Notre Dame**                                                        Notre Dame, IN\
+*Graduate Research Assistant, Biological Sciences*                                                         August 2019-Present
 
 # Skills
 
