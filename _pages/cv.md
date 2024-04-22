@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
-**University of Notre Dame** <p style = 'text-align: right;'> Notre Dame, IN </p>
-Ph.D., Biological Sciences <p style = 'text-align: right;'> 2025 (expected) </p>
+**University of Notre Dame**                 Notre Dame, IN
+Ph.D., Biological Sciences                   2025 (expected)
 
-* Ph.D in Biological Sciences, University of Notre Dame, 2025 (expected)
-* B.S. in Biology and Spanish, Aquinas College, 2019
+**Aquinas College** <p style = 'text-align: right;'> Grand Rapids, MI </p>
+B.S., Biology and Spanish <p style = 'text-align: right;'> 2019 </p>
+Summa cum laude
 
 Research experience
 ======
