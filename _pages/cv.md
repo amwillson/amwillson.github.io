@@ -11,12 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**University of Notre Dame** <p style = 'text-align: right;'> Notre Dame, IN </p>
+Ph.D., Biological Sciences <p style = 'text-align: right;'> 2025 (expected) </p>
 
-Work experience
+* Ph.D in Biological Sciences, University of Notre Dame, 2025 (expected)
+* B.S. in Biology and Spanish, Aquinas College, 2019
+
+Research experience
 ======
+
 * Spring 2024: Academic Pages Collaborator
   * Github University
   * Duties includes: Updates and improvements to template
