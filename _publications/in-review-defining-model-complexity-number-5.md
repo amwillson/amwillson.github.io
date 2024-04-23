@@ -3,7 +3,7 @@ title: "Defining model complexity: An ecological perspective"
 collection: publications
 permalink: /publication/in-review-defining-model-complexity
 excerpt: 'Model complexity is often used as an umbrella term when comparing model performance. Here, we offer a framework where the concept of model complexity is divided into multiple facets of complexity. We urge scientists to consider describing and reporting the complexity of their models using our more detailed facets to improve communication and interoperability of modeling efforts.'
-date: xxxx-xx-xx
+date: 2024-12-31
 venue: 'Meteorological Applications'
 paperurl: ''
 citation: 'Malmborg, C. A., <b>Willson, A. M.,</b> Bradley, L. M., Beatty, M. A., Klinges, D. H., Koren, G., Lewis, A. S. L., Oshinubi, K., Woelmer, W. M. (<i>in review</i>). &quot;Defining model complexity: An ecological perspective&quot; <i>Meteor. Appl.</i>'
