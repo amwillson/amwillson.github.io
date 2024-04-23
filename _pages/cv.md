@@ -62,13 +62,13 @@ archive-single-talk-cv.html %} {% endfor %}</ul>
 * Aquinas College Summer Scholars Grant **($500)**                                                                                      2015
 * Aquinas College John Veneklasen Tuition Scholarship **($17,000/semester)**                                       2014-19
 
-# Academic Service
+## Academic Service
 
-* Ecological Society of America Annual Meeting Review Committee Member                                         2024
+* Ecological Society of America Annual Meeting Review Committee Member (2024)
   * Reviewed 93 abstracts submitted to the Ecological Society of America 2024 annual meeting
-* American Geophysical Union Outstanding Student Presentation Award Reviewer                                 2023
+* American Geophysical Union Outstanding Student Presentation Award Reviewer                                     2023
   * Attended and peer reviewed student poster presentations at the American Geophysical Union annual meeting
-* Letters to a Pre-Scientist Pen Pal                                                                                                        2022-23
+* Letters to a Pre-Scientist Pen Pal                                                                                                           2022-23
   * Wrote letters to a sixth grade pen pal as part of his science curriculum
   * Encouraged interest in science and education for middle school students
 * Ecological Forecasting Initiative Working Group Member                                                              2020-Present
@@ -83,7 +83,7 @@ archive-single-talk-cv.html %} {% endfor %}</ul>
   
 ## Honors & Awards
 
-* JT Callahan Memorial Student Travel Award                                                                                                        2023
+* JT Callahan Memorial Student Travel Award (2023)
 * Striving for Excellence in College and University Teaching                                                                                                        2022
 * Aquinas College Outstanding Spanish Department Senior                                                                                                         2019
 * Aquinas College Outstanding Biology Department Senior                                                                                                         2018
@@ -93,7 +93,7 @@ archive-single-talk-cv.html %} {% endfor %}</ul>
 
 ## Professional Affiliations
 
-* American Geophysical Union                                                                                                         2023-24
+* American Geophysical Union (2023-24)
 * Ecological Society of America                                                                                                         2023-24
 * Ecological Forecasting Initiative                                                                                                         2020-Present
 * American Chemical Association                                                                                                         2016-19
