@@ -2,7 +2,7 @@
 title: "Ten simple rules for training yourself in an emerging field"
 collection: publications
 permalink: /publication/2021-ten-simple-rules-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper provides recommendations for graduate students in emerging disciplines, from a group of early career scientists in the emerging field of ecological forecasting.'
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
