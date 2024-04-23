@@ -51,21 +51,32 @@ archive-single-talk-cv.html %} {% endfor %}</ul>
 
 ## Grants & Fellowships
 
-* National Science Foundation Graduate Research Fellowship **($138,000)**                                         2021-26
+* National Science Foundation Graduate Research Fellowship **($138,000)**                                          2021-26
 * Notre Dame Institute for Advanced Study Distinguished Graduate Fellowship **($1,000)**                   2021-22
 * University of Notre Dame Environmental Research Center Fellowship **($17,700)**                              2021-21
-* University of Notre Dame Arthur J. Schmitt Fellowship **($42,000/year)**                                            2019-24
-* University of Notre Dame Albertus Magnus Fellowship                                                                     2019-20
-* Pierce Cedar Creek Institute Undergraduate Research Grant for the Environment **($16,000)**                2018
-* Aquinas College Dr. Barbara Bissot Math and Science Scholarship **($500/semester)**                    2017-19
-* Pierce Cedar Creek Institute Steeby Land Management Fellowship **($6,000)**                                        2017
-* Aquinas College Summer Scholars Grant **($500)**                                                                                    2015
+* University of Notre Dame Arthur J. Schmitt Fellowship **($42,000/year)**                                             2019-24
+* University of Notre Dame Albertus Magnus Fellowship                                                                      2019-20
+* Pierce Cedar Creek Institute Undergraduate Research Grant for the Environment **($16,000)**                 2018
+* Aquinas College Dr. Barbara Bissot Math and Science Scholarship **($500/semester)**                      2017-19
+* Pierce Cedar Creek Institute Steeby Land Management Fellowship **($6,000)**                                         2017
+* Aquinas College Summer Scholars Grant **($500)**                                                                                     2015
 * Aquinas College John Veneklasen Tuition Scholarship **($17,000/semester)**                                     2014-19
 
 # Academic Service
 
-* Ecological Society of America Annual Meeting Review Committee Member (2024)
+* Ecological Society of America Annual Meeting Review Committee Member            2024
   * Reviewed 93 abstracts submitted to the Ecological Society of America 2024 annual meeting
-* American Geophysical Union Outstanding Student Presentation Award Reviewer (2023)
+* American Geophysical Union Outstanding Student Presentation Award Reviewer            2023
   * Attended and peer reviewed student poster presentations at the American Geophysical Union annual meeting
-* Letters to a Pre-Scientist Pen Pal
+* Letters to a Pre-Scientist Pen Pal                                                     2022-23
+  * Wrote letters to a sixth grade pen pal as part of his science curriculum
+  * Encouraged interest in science and education for middle school students
+* Ecological Forecasting Initiative Working Group Member                           2020-Present
+  * Mentored 6 undergraduate interns at Humboldt State University on multiple ecological forecasting related projects
+  * Organized two international meetings occurring in June 2021
+  * Collated over 200 online resources for learning ecological forecasting
+  * Contributed to ongoing efforts as a member of the Education Working Group; Diversity, Equity, and Inclusion Working Group; Theory Working Group; and Steering Committee
+* Ecological Forecasting Initiative Student Association                           2021-23
+  * Co-coordinated a 2-day international conference for students in the Ecological Forecasting Initiative
+  * Co-organized monthly international Student Association meetings
+  * Co-organized the Ecological Forecasting Initaitive 2022 Meeting
