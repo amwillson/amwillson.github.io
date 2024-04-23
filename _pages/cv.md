@@ -19,7 +19,7 @@ editor_options:
 Ph.D., Biological Sciences                                                                                                                     2025 (expected)
 
 **Aquinas College**                                                                                                                                 Grand Rapids, MI\
-B.S., Biology and Spanish                                                                                                                                        2019\
+B.S., Biology and Spanish                                                                                                                                       2019\
 Summa cum laude
 
 ## Research Experience
@@ -51,16 +51,16 @@ archive-single-talk-cv.html %} {% endfor %}</ul>
 
 ## Grants & Fellowships
 
-* National Science Foundation Graduate Research Fellowship **($138,000)**                                  2021-26
-* Notre Dame Institute for Advanced Study Distinguished Graduate Fellowship **($1,000)**          2021-22
-* University of Notre Dame Environmental Research Center Fellowship **($17,700)**                      2021-21
-* University of Notre Dame Arthur J. Schmitt Fellowship **($42,000/year)**                                    2019-24
-* University of Notre Dame Albertus Magnus Fellowship                                                           2019-20
-* Pierce Cedar Creek Institute Undergraduate Research Grant for the Environment **($16,000)**      2018
-* Aquinas College Dr. Barbara Bissot Math and Science Scholarship **($500/semester)**           2017-19
-* Pierce Cedar Creek Institute Steeby Land Management Fellowship **($6,000)**                              2017
-* Aquinas College Summer Scholars Grant **($500)**                                                                         2015
-* Aquinas College John Veneklasen Tuition Scholarship **($17,000/semester)**                         2014-19
+* National Science Foundation Graduate Research Fellowship **($138,000)**                                         2021-26
+* Notre Dame Institute for Advanced Study Distinguished Graduate Fellowship **($1,000)**                  2021-22
+* University of Notre Dame Environmental Research Center Fellowship **($17,700)**                             2021-21
+* University of Notre Dame Arthur J. Schmitt Fellowship **($42,000/year)**                                            2019-24
+* University of Notre Dame Albertus Magnus Fellowship                                                                    2019-20
+* Pierce Cedar Creek Institute Undergraduate Research Grant for the Environment **($16,000)**               2018
+* Aquinas College Dr. Barbara Bissot Math and Science Scholarship **($500/semester)**                    2017-19
+* Pierce Cedar Creek Institute Steeby Land Management Fellowship **($6,000)**                                       2017
+* Aquinas College Summer Scholars Grant **($500)**                                                                                   2015
+* Aquinas College John Veneklasen Tuition Scholarship **($17,000/semester)**                                   2014-19
 
 # Service and leadership
 
