@@ -64,37 +64,37 @@ archive-single-talk-cv.html %} {% endfor %}</ul>
 
 # Academic Service
 
-* Ecological Society of America Annual Meeting Review Committee Member                                     2024
+* Ecological Society of America Annual Meeting Review Committee Member                                         2024
   * Reviewed 93 abstracts submitted to the Ecological Society of America 2024 annual meeting
-* American Geophysical Union Outstanding Student Presentation Award Reviewer                              2023
+* American Geophysical Union Outstanding Student Presentation Award Reviewer                                 2023
   * Attended and peer reviewed student poster presentations at the American Geophysical Union annual meeting
-* Letters to a Pre-Scientist Pen Pal                                                                                                      2022-23
+* Letters to a Pre-Scientist Pen Pal                                                                                                        2022-23
   * Wrote letters to a sixth grade pen pal as part of his science curriculum
   * Encouraged interest in science and education for middle school students
-* Ecological Forecasting Initiative Working Group Member                                                                 2020-Present
+* Ecological Forecasting Initiative Working Group Member                                                              2020-Present
   * Mentored 6 undergraduate interns at Humboldt State University on multiple ecological forecasting related projects
   * Organized two international meetings occurring in June 2021
   * Collated over 200 online resources for learning ecological forecasting
   * Contributed to ongoing efforts as a member of the Education Working Group; Diversity, Equity, and Inclusion Working Group; Theory Working Group; and Steering Committee
-* Ecological Forecasting Initiative Student Association                                                                         2021-23
+* Ecological Forecasting Initiative Student Association                                                                           2021-23
   * Co-coordinated a 2-day international conference for students in the Ecological Forecasting Initiative
   * Co-organized monthly international Student Association meetings
   * Co-organized the Ecological Forecasting Initaitive 2022 Meeting
   
 ## Honors & Awards
 
-* JT Callahan Memorial Student Travel Award                                                     2023
-* Striving for Excellence in College and University Teaching                                                     2022
-* Aquinas College Outstanding Spanish Department Senior                                                      2019
-* Aquinas College Outstanding Biology Department Senior                                                      2018
-* Aquinas College Sophomore Class Outstanding Student                                                      2016
-* Aquinas College Outstanding Chemistry Department First Year                                                      2016
-* Aquinas College Outstanding First Year Student                                                      2015
+* JT Callahan Memorial Student Travel Award                                                                                                        2023
+* Striving for Excellence in College and University Teaching                                                                                                        2022
+* Aquinas College Outstanding Spanish Department Senior                                                                                                         2019
+* Aquinas College Outstanding Biology Department Senior                                                                                                         2018
+* Aquinas College Sophomore Class Outstanding Student                                                                                                         2016
+* Aquinas College Outstanding Chemistry Department First Year                                                                                                         2016
+* Aquinas College Outstanding First Year Student                                                                                                         2015
 
 ## Professional Affiliations
 
-* American Geophysical Union                                                      2023-24
-* Ecological Society of America                                                      2023-24
-* Ecological Forecasting Initiative                                                      2020-Present
-* American Chemical Association                                                      2016-19
-* Aquinas College Insignis Honors College                                                      2014-19
+* American Geophysical Union                                                                                                         2023-24
+* Ecological Society of America                                                                                                         2023-24
+* Ecological Forecasting Initiative                                                                                                         2020-Present
+* American Chemical Association                                                                                                         2016-19
+* Aquinas College Insignis Honors College                                                                                                         2014-19
