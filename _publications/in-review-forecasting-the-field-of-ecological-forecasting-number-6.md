@@ -1,8 +1,11 @@
 ---
 title: "Forecasting the field of ecological forecasting"
 collection: publications
-date: in review
+permalink:
+excerpt: ''
+date: 'in review'
 venue: 'Nature Climate Change'
+paperurl: ''
 citation: 'Dietze, M., White, E. P., Abeyta, A., Boettiger, C., Bueno Watts, N., Carey, C. C., Chaplin-Kramer, R., Emanuel, R. E., Ernest, S. K. M., Figueiredo, R., Gerst, M. D., Johnson, J. R., Kenney, M. A., McLachlan, J. S., Paschalidis, I. C., Peters, J. A., Rollinson, C. R., Simonis, J., Sullivan-Wiley, K., Thomas, R. Q., Wardle, M., **Willson, A. M.**, Zwart, J. in review. Forecasting the field of ecological forecasting. Nat. Clim. Change.'
 ---
 
