@@ -15,15 +15,16 @@ editor_options:
 # Education
 
 **University of Notre Dame**
-                                                        Notre Dame, IN\
-Ph.D., Biological Sciences                                                         2025 (expected)
+                                                                                   Notre Dame, IN\
+Ph.D., Biological Sciences                                                                                     2025 (expected)
 
-**Aquinas College**                                                         Grand Rapids, MI B.S., Biology and Spanish                                                         2019
+**Aquinas College**                                                         Grand Rapids, MI\
+B.S., Biology and Spanish                                                                                                 2019\
 Summa cum laude
 
 # Research experience
 
-**University of Notre Dame**                                                        Notre Dame, IN\
+**University of Notre Dame**                                                                                   Notre Dame, IN\
 *Graduate Research Assistant, Biological Sciences*                                                         August 2019-Present
 * Compared hydraulic physiological traits of lianas and trees and tested mechanisms contributing to differences in hydraulic traits between growth forms in a mathematical model
 * Coordinated multiple education and inclusivity workshops and a manuscript as a member of the Ecological Forecasting Initiative
