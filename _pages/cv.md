@@ -12,49 +12,62 @@ editor_options:
 
 {% include base_path %}
 
-# Education
+## Education
 
 **University of Notre Dame**
                                                                                                                     Notre Dame, IN\
 Ph.D., Biological Sciences                                                                                                                     2025 (expected)
 
-**Aquinas College**                                                                                                                               Grand Rapids, MI\
-B.S., Biology and Spanish                                                                                                                                         2019\
+**Aquinas College**                                                                                                                                      Grand Rapids, MI\
+B.S., Biology and Spanish                                                                                                                                                        2019\
 Summa cum laude
 
-# Research experience
+## Research Experience
 
-**University of Notre Dame**                                                                                                          Notre Dame, IN\
-*Graduate Research Assistant, Biological Sciences*                                                         August 2019-Present
+**University of Notre Dame**                                                                                                                     Notre Dame, IN\
+*Graduate Research Assistant, Biological Sciences*                                                                           August 2019-Present
 * Compared hydraulic physiological traits of lianas and trees and tested mechanisms contributing to differences in hydraulic traits between growth forms in a mathematical model
 * Coordinated multiple education and inclusivity workshops and a manuscript as a member of the Ecological Forecasting Initiative
 * Investigated the relationship between the environment and vegetation distributions at a variety of spatial and temporal scales
 * Contributed statistical and mechanistic modeling expertise to the PaleoEcological Observatory Network
 
-# Teaching Experience
+## Teaching Experience
 
-**University of Notre Dame**                                                                                                           Notre Dame, IN
+**University of Notre Dame**                                                                                                           Notre Dame, IN\
 *Teaching Assistant, Biological Sciences*                                                                                         August 2019-May 2021
 * Biostatistics Tutorial TA (BIOS 42411) (Spring 2021)
 * Molecules to Ecosystems Lecture TA (BIOS 10172) (Spring 2020)
 * Big Questions Lecture TA (BIOS 10170) (Fall 2019)
 
-# Publications
-
-# Publications
+## Publications
 
 <ul>{% for post in site.publications reversed %} {% include
 archive-single-cv.html %} {% endfor %}</ul>
 
-# Talks
+## Presentations
 
 <ul>{% for post in site.talks reversed %} {% include
 archive-single-talk-cv.html %} {% endfor %}</ul>
 
-# Teaching
+## Grants & Fellowships
 
-<ul>{% for post in site.teaching reversed %} {% include
-archive-single-cv.html %} {% endfor %}</ul>
+National Science Foundation Graduate Research Fellowship ($138,000)   2021-26
+
+Notre Dame Institute for Advanced Study Distinguished Graduate Fellowship ($1,000)   2021-22
+
+University of Notre Dame Environmental Research Center Fellowship ($17,700)   2020-21
+
+University of Notre Dame Arthur J. Schmitt Presidential Leadership Fellowship   2019-25
+
+Albertus Magnus Fellowship   2019-20
+
+Undergraduate Research Grant for the Environment ($16,000)   2018
+
+Dr. Barbara Bissot Math and Science Scholarship ($500/semester)   2017-19
+
+Steeby Land Management Fellowship ($6,000)   2017
+
+Aquinas College Summer Scholars Grant
 
 # Service and leadership
 
