@@ -25,15 +25,14 @@ Summa cum laude
 
 **University of Notre Dame**                                                        Notre Dame, IN\
 *Graduate Research Assistant, Biological Sciences*                                                         August 2019-Present
+* Compared hydraulic physiological traits of lianas and trees and tested mechanisms contributing to differences in hydraulic traits between growth forms in a mathematical model
+* Coordinated multiple education and inclusivity workshops and a manuscript as a member of the Ecological Forecasting Initiative
+* Investigated the relationship between the environment and vegetation distributions at a variety of spatial and temporal scales
+* Contributed statistical and mechanistic modeling expertise to the PaleoEcological Observatory Network
 
-# Skills
+# Teaching Experience
 
--   Skill 1
--   Skill 2
-    -   Sub-skill 2.1
-    -   Sub-skill 2.2
-    -   Sub-skill 2.3
--   Skill 3
+** University of 
 
 # Publications
 
