@@ -1,16 +1,14 @@
 ---
 permalink: /
-title: "Quantitative forest ecology and biogeochemical cycling"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-**Hello! I am currently a PhD candidate in the  [McLachlan Lab](https://sites.nd.edu/paleolab/) at the University of Notre Dame, where I study long-term controls on terrestrial carbon cycling.**
+## Quantitative forest ecology and biogeochemical cycling
 
-I am a member of the [PalEON Project](http://paleonproject.org), where I have focused on using historical and paleoecological proxy data sources to quantify the relationship between environmental variables and vegetation at large spatial scales (Midwest, US region) and over long temporal scales (thousands of years).
+Hello! I am currently a PhD candidate in the  [McLachlan Lab](https://sites.nd.edu/paleolab/) at the University of Notre Dame, where I study long-term controls on terrestrial carbon cycling.
 
-I also participate in the [Ecological Forecasting Initiative](http://paleonproject.org), where I have co-led the Ecological Forecasting Initiative Student Association, and led a manuscript within the Education Working Group to understand where gaps and opportunities exist in teaching ecological forecasting at undergraduate and graduate levels.
-
-[!](images/paleon_logo.png) &emsp &emsp [!](images/efi_log.png)
+Broadly, I am interested in improving predictability of terrestrial carbon cycling by understanding both short-term and long-term controls on carbon. I am also passionate about broadening participation in quantitative sciences via undergraduate education. Visit the "Research" and "Teaching" tabs to learn more about my current projects, and visit the "Publications," "Talks", and "CV" tabs to see more about the outcomes of my research.
