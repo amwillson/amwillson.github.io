@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-3. Hydroclimate and hydraulic traits
-
 ## Quantifying large-scale, long-term controls on vegetation composition and ecosystem function
 
 A large portion of my dissertation research involves understanding what controls the composition of vegetation, and subsequent ecosystem function over large spatial domains and long temporal domains in the Midwest, US. First, I advised an undergraduate thesis project, which quantified the relationship between taxon- and ecosystem-level vegetation occurrences and commonly-hypothesized environmental drivers of vegetation occurrences across Illinois and Indiana prior to European settlement. We used reconstructions of the taxa occurring across this region using the Public Land Survey record, a historical record of tree occurrences across central and western US prior to widespread European settlement. We found that patterns in vegetation occurrences were broadly explained by environmental covariates, including climate, soil, and topographic variables. However, mesoscale patterns in occurrences, such as when forest and savanna vegetation existed in a mosaic, were not predicted by the environment, but instead, could be predicted by knowing the relationship between taxa or ecosystems. We hypothesize that these residual relationships are indicative of self-regulating feedbacks between ecosystem states in this region, such as the effects of fire and herbivory. These feedbacks may give rise to multiple ecosystem states, where multiple states can exist in the same environmental niche space. We are excited to submit a manuscript on this research to *Ecography* in the near future!
