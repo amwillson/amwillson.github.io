@@ -33,6 +33,19 @@ editor_options:
 </div>
 <p style="margin-top:0;">Summa cum laude</p>
 
+## PROFESSIONAL APPOINTMENTS
+<hr style='width:100%; border:1px solid #000; margin-bottom:5px; margin-top:0px'>
+<div style="display:flex; justify-content:space-between;">
+  <span><strong>West Virginia University</strong></span>
+  <span>Morgantown, WV</span>
+</div>
+<div style="display:flex; justify-content:space-between;">
+  <span><i>Postdoctoral Research Associate, Biology</i></span>
+  <span>September 2025-Present</span>
+</div>
+* Investigated climate sensitivity of Appalachian forests
+* Produced forecats of the impact of past land use change and land management decisions on future forest resilience to climate change
+
 ## Research Experience
 
 **University of Notre Dame**                                                                                                                     Notre Dame, IN\
