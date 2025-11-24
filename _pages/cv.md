@@ -14,7 +14,7 @@ editor_options:
 
 ## Education
 
-**University of Notre Dame** <span style="display:block; text-align:left;">Notre Dame, IN</span> \
+**University of Notre Dame** <span style="display:block; text-align:right;">Notre Dame, IN</span> \
 Ph.D., Biological Sciences                                                                                                                     2025 (expected)
 
 **Aquinas College**                                                                                                                                 Grand Rapids, MI\
