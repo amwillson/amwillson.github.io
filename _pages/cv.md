@@ -15,16 +15,22 @@ editor_options:
 ## EDUCATION
 <hr style='width:100%; border:1px solid #000; margin-bottom:5px; margin-top:5px'>
 <div style="display:flex; justify-content:space-between;">
-  <span>**University of Notre Dame**</span>
+  <span><strong>University of Notre Dame</strong></span>
   <span>Notre Dame, IN</span>
 </div>
 <div style="display:flex; justify-content:space-between;">
   <span>Ph.D., Biological Sciences</span>
   <span>May 2025</span>
-</div>
+</div> \\
 
-**Aquinas College**                                                                                                                                 Grand Rapids, MI\
-B.S., Biology and Spanish                                                                                                                                       2019\
+<div style="display:flex; justify-content:space-between;">
+  <span><strong>Aquinas College</strong></span>
+  <span>Grand Rapids, MI</span>
+</div>
+<div style="display:flex; justify-content:space-between;">
+  <span>B.S., Biology and Spanish</span>
+  <span>May 2019</span>
+</div>
 Summa cum laude
 
 ## Research Experience
