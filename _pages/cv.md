@@ -96,12 +96,13 @@ archive-single-cv.html %} {% endfor %}</ul>
 * **Willson, A. M.**, O'Grady, H., Guaita, P. R., Shuman, I. N. C.[^1], Dawson, A., Crippa, P., McLachlan, J. S. *in review.* Vegetation was not uniformly in equilibrium with climate during a period of climate stability. *Ecology*
 * Shuman, I. N. C.[^1], McLachlan, J. S., Peters, J. A., Heilman, K. A., Kowalski, C., **Willson, A. M.** *in review.* Both environmental gradients and feedbacks determine the historical distribution of forest, savanna, and prairie ecosystems in the Midwestern United States. *Ecography*
 * Sjodin, A., Stokes, G., Gallagher, C., Javadian, M., Lewis, A., Schreiner, C., Super, L., Tuschhoff, B., **Willson, A. M.**, Dietze, M., McLachlan, J., Peters, J. *in review*. Toward a standard lexicon for ecological forecasting. *Front. Ecol. Environ.*
-<p style="margin-top:12px;">[^1] Denotes undergraduate advisee
 
 ### PUBLISHED EDUCATIONAL RESOURCES
 
 * Sjodin, A., Haber, L., LaDeau, S., **Willson, A. M.**, Lofton, M., Moore, T. M., Tabares-Mendoza, O., Dalbotten, D., McLachlan, J., Dietze, M. & Peters, J. 2021. Ecological forecasting student resource: Overview of forecasting, potential careers, helpful courses. *QUBES Educational Resources*. http://dx.doi.org/10.25334/8VRF-WS31.
 * **Willson, A. M.** & Peters, J. 2021. Ecological forecasting repository of online educational resources. *QUBES Educational Resources*. http://dx.doi.org/10.25334/XAW7-JW16.
+
+<p style="margin-top:12px;">[^1] Denotes undergraduate advisee </p>
 
 ## GRANTS & FELLOWSHIPS
 <hr style='width:100%; border:1px solid #000; margin-bottom:5px; margin-top:0px'>
