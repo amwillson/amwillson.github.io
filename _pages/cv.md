@@ -145,6 +145,34 @@ archive-single-cv.html %} {% endfor %}</ul>
 
 <p style="margin-top:12px;"><sup>†</sup>Note that I could not be a named Co-I due to graduate student status </p>
 
+## PRESENTATIONS
+<hr style='width:100%; border:1px solid #000; margin-bottom:5px; margin-top:0px'>
+<ul>{% for post in site.talks reversed %} {% include
+archive-single-talk-cv.html %} {% endfor %}</ul>
+
+<p style="margin-top:12px;"><sup>†</sup>Denotes undergraduate advisee</p>
+
+## TEACHING EXPERIENCE
+<hr style='width:100%; border:1px solid #000; margin-bottom:5px; margin-top:0px'>
+<div style="display:flex; justify-content:space-between;">
+  <span><strong>University of Notre Dame</strong></span>
+  <span>Notre Dame, IN</span>
+</div>
+<div style="display:flex; justify-content:space-between;">
+  <span><i>Education Program Mentor</i></span>
+  <span>January 2021-August 2022</span>
+</div>
+* Taught ecological forecasting to undergraduate students in the Louis Stokes Alliance for Minority Participation program at California State Polytechnic University--Humboldt
+* Submitted student-developed forecasts to the NEON Forecasting Challenge
+* Developed student internship investigating forest succession hypothesis formulation in mechanistic process models
+<div style="display:flex; justify-content:space-between;">
+  <span><i>Teaching Assistant, Biological Sciences</i></span>
+  <span>August 2019-May 2021</span>
+</div>
+* Biostatistics Tutorial TA (BIOS 42411) (Spring 2021)
+* Molecules to Ecosystems Lecture TA (BIOS 10172) (Spring 2020)
+* Big Questions Lecture TA (BIOS 10170) (Fall 2019)
+
 ## Research Experience
 
 **University of Notre Dame**                                                                                                                     Notre Dame, IN\
@@ -162,10 +190,6 @@ archive-single-cv.html %} {% endfor %}</ul>
 * Molecules to Ecosystems Lecture TA (BIOS 10172) (Spring 2020)
 * Big Questions Lecture TA (BIOS 10170) (Fall 2019)
 
-## Publications
-
-<ul>{% for post in site.publications reversed %} {% include
-archive-single-cv.html %} {% endfor %}</ul>
 
 ## Presentations
 
