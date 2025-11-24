@@ -9,9 +9,9 @@ An overarching goal of my research is improving predictions of the ecological co
 
 **Click on the links below to find out more about my ongoing research efforts, future research directions, and completed research projects.**
 
-<figure style="text-align:center; display:block; margin:20px auto; max-width: 100%;">
-  <img src="/images/across_scales_applications.png" alt="Figure 1" style="display:block; margin: 0 auto; max-width:70%; text-align:center;">
-  <figcaption style="text-align:center; font-style: italic; margin-top: 10px; max-width:70%;">
+<figure style="display: flex; align-items: flex-start; gap: 20px; margin: 20px auto; max-widdth: 90%; justify-content: center">
+  <img src="/images/across_scales_applications.png" alt="Figure 1" style="max-width: 60%; height; auto; flex-shrink: 0;">
+  <figcaption style="font-style: italic; flex: 1; min-width: 200px; align-self: center;">
     Using models and data at multiple scales to constrain long-term predictions of terrestrial vegetation dynamics. The thick, green line represents how vegetation is predicted to change over time. Different data streams inform the processes operating at different time scales.
   </figcaption>
 </figure>
