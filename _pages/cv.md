@@ -13,12 +13,12 @@ editor_options:
 {% include base_path %}
 
 ## EDUCATION
-<hr style='width:100%; border:1px solid #000; margin-bottom:5px; margin-top:5px'>
+<hr style='width:100%; border:1px solid #000; margin-bottom:5px; margin-top:0px'>
 <div style="display:flex; justify-content:space-between;">
   <span><strong>University of Notre Dame</strong></span>
   <span>Notre Dame, IN</span>
 </div>
-<div style="display:flex; justify-content:space-between;">
+<div style="display:flex; justify-content:space-between; margin-bottom:10px">
   <span>Ph.D., Biological Sciences</span>
   <span>May 2025</span>
 </div>
