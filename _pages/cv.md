@@ -21,13 +21,13 @@ editor_options:
 <div style="display:flex; justify-content:space-between;">
   <span>Ph.D., Biological Sciences</span>
   <span>May 2025</span>
-</div> \\
+</div> \
 
 <div style="display:flex; justify-content:space-between;">
   <span><strong>Aquinas College</strong></span>
   <span>Grand Rapids, MI</span>
 </div>
-<div style="display:flex; justify-content:space-between;">
+<div style="display:flex; justify-content:space-between; margin-bottom:0">
   <span>B.S., Biology and Spanish</span>
   <span>May 2019</span>
 </div>
