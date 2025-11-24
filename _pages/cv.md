@@ -12,10 +12,15 @@ editor_options:
 
 {% include base_path %}
 
-## Education
-<hr style='width:100%; border:1px solid #000;'>
-**University of Notre Dame** <span style="display:block; text-align:right;">Notre Dame, IN</span> \
-Ph.D., Biological Sciences <span style="display:block; text-align:right;"> May 2025</span>
+## EDUCATION
+<hr style='width:100%; border:1px solid #000; margin-bottom:5px; margin-top:5px'>
+<div style="display:flex; justify-content:space-between;">
+  <span>University of Notre Dame</span>
+  <span>Notre Dame, IN</span>
+</div>
+<div style="display:flex; justify-content:space-between;">
+  <span>Ph.D., Biological Sciences</span>
+  <span>May 2025</span>
 
 **Aquinas College**                                                                                                                                 Grand Rapids, MI\
 B.S., Biology and Spanish                                                                                                                                       2019\
