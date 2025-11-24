@@ -9,7 +9,13 @@ An overarching goal of my research is improving predictions of the ecological co
 
 I use a variety of modeling tools and data sources across scales to inform predictions of terrestrial vegetation change. Below, I describe my current research efforts, my future research directions synthesizing my previous work, and previous research projects.
 
-{% include figure image_path="/images/across_scales_applications.png" alt="Figure 1" caption="Using models and data at multiple scales to constrain long-term predictions of terrestrial vegetation dynamics. The thick, green line represents how vegetation is predicted to change over time. Different data streams inform the processes operating at different time scales."%}
+<figure style="text-align:center;">
+  /images/across_scales_applications.png
+  <figcaption>
+    Using models and data at multiple scales to constrain long-term predictions of terrestrial vegetation dynamics. The thick, green line represents how vegetation is predicted to change over time. Different data streams inform the processes operating at different time scales.
+  </figcaption>
+</figure>
+
 
 ## Ongoing projects
 
