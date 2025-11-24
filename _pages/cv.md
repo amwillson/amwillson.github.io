@@ -106,6 +106,44 @@ archive-single-cv.html %} {% endfor %}</ul>
 
 ## GRANTS & FELLOWSHIPS
 <hr style='width:100%; border:1px solid #000; margin-bottom:5px; margin-top:0px'>
+<div style="display:flex; justify-content:space-between;">
+  <span>National Science Foundation DEB Grant #2213579 **($945,511)**<sup>†</sup></span>
+  <span>2022-27</span>
+</div>
+<div style="display:flex; justify-content:space-between;">
+  <span>National Science Foundation Graduate Research Fellowship **($138,000)**</span>
+  <span>2021-26</span>
+</div>
+<div style="display:flex; justify-content:space-between;">
+  <span>Notre Dame Institute for Advanced Study Distinguished Graduate Fellowship **($1,000)**</span>
+  <span>2021-22</span>
+</div>
+<div style="display:flex; justify-content:space-between;">
+  <span>University of Notre Dame Environmental Research Center Fellowship **($17,700)**</span>
+  <span>2021-21</span>
+</div>
+<div style="display:flex; justify-content:space-between;">
+  <span>University of Notre Dame Arthur J. Schmitt Fellowship **($42,000/year)**</span>
+  <span>2019-24</span>
+</div>
+<div style="display:flex; justify-content:space-between;">
+  <span>University of Notre Dame Albertus Magnus Fellowship</span>
+  <span>2019-20</span>
+</div>
+<div style="display:flex; justify-content:space-between;">
+  <span>Pierce Cedar Creek Institute Undergraduate Research Grant for the Environment **($16,000)**</span>
+  <span>2018</span>
+</div>
+<div style="display:flex; justify-content:space-between;">
+  <span>Aquinas College Summer Scholars Grant **($500)**</span>
+  <span>2015</span>
+</div>
+<div style="display:flex; justify-content:space-between;">
+  <span>Aquinas College John Veneklasen Tuition Scholarship **(~$17,000/semester)**</span>
+  <span>2014-19</span>
+</div>
+
+<p style="margin-top:12px;"><sup>†</sup>Note that I could not be a named Co-I due to graduate student status </p>
 
 ## Research Experience
 
