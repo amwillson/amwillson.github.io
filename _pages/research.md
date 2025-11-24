@@ -10,7 +10,7 @@ An overarching goal of my research is improving predictions of the ecological co
 I use a variety of modeling tools and data sources across scales to inform predictions of terrestrial vegetation change. Below, I describe my current research efforts, my future research directions synthesizing my previous work, and previous research projects.
 
 <figure style="text-align:center;">
-  <img src="/images/across_scales_applications.png" alt="Figure 1" width:80%>
+  <img src="/images/across_scales_applications.png" alt="Figure 1" width=80%>
   <figcaption>
     Using models and data at multiple scales to constrain long-term predictions of terrestrial vegetation dynamics. The thick, green line represents how vegetation is predicted to change over time. Different data streams inform the processes operating at different time scales.
   </figcaption>
@@ -19,6 +19,9 @@ I use a variety of modeling tools and data sources across scales to inform predi
 ## Ongoing projects
 
 ### Collaborative, interdisciplinary research in ecological forecasting
+
+I approach my research within the framework of ecological forecasting, an emerging field that integrates environmental science, statistics, decision science, and climate science with the goal of making quantitative, decision-relevant predictions by combining models and data. Framing my science in terms of ecological forecasting allows me to simultaneously advance basic research on environmental change while making predictions that can inform policy and management of terrestrial ecosystems.
+
 
 A large portion of my dissertation research involves understanding what controls the composition of vegetation, and subsequent ecosystem function over large spatial domains and long temporal domains in the Midwest, US. First, I advised an undergraduate thesis project, which quantified the relationship between taxon- and ecosystem-level vegetation occurrences and commonly-hypothesized environmental drivers of vegetation occurrences across Illinois and Indiana prior to European settlement. We used reconstructions of the taxa occurring across this region using the Public Land Survey record, a historical record of tree occurrences across central and western US prior to widespread European settlement. We found that patterns in vegetation occurrences were broadly explained by environmental covariates, including climate, soil, and topographic variables. However, mesoscale patterns in occurrences, such as when forest and savanna vegetation existed in a mosaic, were not predicted by the environment, but instead, could be predicted by knowing the relationship between taxa or ecosystems. We hypothesize that these residual relationships are indicative of self-regulating feedbacks between ecosystem states in this region, such as the effects of fire and herbivory. These feedbacks may give rise to multiple ecosystem states, where multiple states can exist in the same environmental niche space. We are excited to submit a manuscript on this research to *Ecography* in the near future!
 
