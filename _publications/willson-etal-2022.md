@@ -1,11 +1,11 @@
 ---
 title: "Climate and hydraulic traits interact to set thresholds for liana viability"
 collection: publications
-permalink: /publication/2022-climate-and-hydraulic-traits-interact
+permalink: /publication/willson-etal-2022
 excerpt: 'Tropical trees and lianas are functionally differentiated by hydraulic traits, particularly the rate of water conductivity through the xylem. The difference in hydraulic traits explains difference in GPP at the individual plant level. Despite observations that lianas are most prevalent under drier hydroclimatic conditions at present, we show that liana GPP is more sensitive to projected drying hydroclimate in the future as a result of more acquisitive and vulnerable hydraulic functional traits.'
 date: 2022-06-09
 venue: 'Nature Communications'
-paperurl: 'http://amwillson.github.io/files/2022-climate-and-hydraulic-traits-interact.pdf'
+paperurl: 'https://doi.org/10.1038/s41467-022-30993-2'
 citation: '<b>Willson, A. M.</b>, Trugman, A. T., Powers, J. S., Smith-Martin, C. S. & Medvigy, D. (2022). &quot;Climate and hydraulic traits interact to set thresholds for liana viability.&quot; <i>Nat. Commun.</i> <b>13</b>:3332.'
 ---
 

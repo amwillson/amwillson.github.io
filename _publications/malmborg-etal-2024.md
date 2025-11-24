@@ -1,11 +1,11 @@
 ---
 title: "Defining model complexity: An ecological perspective"
 collection: publications
-permalink: /publication/2024-defining-model-complexity-number-5
+permalink: /publication/malmborg-etal-2024
 excerpt: 'Model complexity is often used as an umbrella term when comparing model performance. Here, we offer a framework where the concept of model complexity is divided into multiple facets of complexity. We urge scientists to consider describing and reporting the complexity of their models using our more detailed facets to improve communication and interoperability of modeling efforts.'
 date: 2024-05-17
 venue: 'Meteorological Applications'
-paperurl: 'http://amwillson.github.io/files/2024-defining-model-complexity.pdf'
+paperurl: 'https://doi.org/10.1002/met.2202'
 citation: 'Malmborg, C. A., <b>Willson, A. M.,</b> Bradley, L. M., Beatty, M. A., Klinges, D. H., Koren, G., Lewis, A. S. L., Oshinubi, K., Woelmer, W. M. (2024). &quot;Defining model complexity: An ecological perspective&quot; <i>Meteor. Appl.</i>'
 ---
 
