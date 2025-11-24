@@ -21,7 +21,7 @@ editor_options:
 <div style="display:flex; justify-content:space-between;">
   <span>Ph.D., Biological Sciences</span>
   <span>May 2025</span>
-</div> \
+</div>
 
 <div style="display:flex; justify-content:space-between;">
   <span><strong>Aquinas College</strong></span>
@@ -31,7 +31,7 @@ editor_options:
   <span>B.S., Biology and Spanish</span>
   <span>May 2019</span>
 </div>
-Summa cum laude
+<p style="margin-top:0;">Summa cum laude</p>
 
 ## Research Experience
 
