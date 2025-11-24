@@ -7,11 +7,11 @@ author_profile: true
 
 An overarching goal of my research is improving predictions of the ecological consequences of climate change in a way that is relevant to environmental decision-making. Terrestrial ecosystems present a particular challenge for prediction because the response of long-lived terrestrial vegetation to present-day stressors will only become fully apparent decades to centuries into the future, the timescale most relevant to long-term infrastructural climate adaptation. Therefore, modern empirical records, which are used to build predictive models, cannot fully constrain the relationship between climate and vegetation change.
 
-I use a variety of modeling tools and data sources across scales to inform predictions of terrestrial vegetation change. Below, I describe my current research efforts, my future research directions synthesizing my previous work, and previous research projects.
+I use a variety of modeling tools and data sources across scales to inform predictions of terrestrial vegetation change. Click on the links below to find out more about my ongoing research efforts, future research directions, and completed research projects.
 
 <figure style="text-align:center; display:block; margin:20px auto; max-width: 100%;">
   <img src="/images/across_scales_applications.png" alt="Figure 1" style="display:block; margin: 0 auto; max-width:70%; text-align:center;">
-  <figcaption style="text-align:center; font-style: italic; margin-top: 10px; max-width:80%;">
+  <figcaption style="text-align:center; font-style: italic; margin-top: 10px; max-width:70%;">
     Using models and data at multiple scales to constrain long-term predictions of terrestrial vegetation dynamics. The thick, green line represents how vegetation is predicted to change over time. Different data streams inform the processes operating at different time scales.
   </figcaption>
 </figure>
@@ -21,17 +21,6 @@ I use a variety of modeling tools and data sources across scales to inform predi
 ### [Collaborative, interdisciplinary research in ecological forecasting](https://amwillson.github.io/research/forecasting/)
 
 I approach my research within the framework of [ecological forecasting](https://ecoforecast.org), an emerging field that integrates environmental science, statistics, decision science, and climate science with the goal of making quantitative, decision-relevant predictions by combining models and data.
-
-I have been involved in a number of publications laying the foundation of the discipline (Dietze <i>et al.</i> 2024), including establishing a unifying forecasting lexicon (Sjodin <i>et al.</i> in review) and describing the first Ecological Forecasting Challenge, a platform for scientists to make comparable ecological forecasts, inspired by data science challenges (Thomas <i>et al.</i> 2023). Framing my science in terms of ecological forecasting allows me to simultaneously advance basic research on environmental change while making predictions that can inform policy and management of terrestrial ecosystems.
-
-<figure style="float:right; margin:10px; width:40%; display:block">
-  <img src="/images/iterative-forecasting.png" alt="Figure 2" style="display:block; ign:left;">
-  <figcaption>
-    Iterative ecological forecasting combines models and data to improve ecological understanding and inform decision-making.
-  </figcaption>
-</figure>
-
-A compelling aspect of ecological forecasting for me is the opportunity to collaborate widely. For instance, I recently collaborated with aquatic ecologists to produce a long-term forecast of Alaskan wetland temperatures. We found that Alaskan wetlands are at high risk for crossing a temperature threshold for salmon viability, with implications for managing wild populations of these culturally and economically important species (Adey <i>et al.</i> in press). **I am eager to contribute my ecological forecasting expertise to new contexts and I'm always looking for new collaborations! If you're interested in developing a project together, please contact me!**
 
 ### Using model-data fusion to improve predictive models
 
