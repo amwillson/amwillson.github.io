@@ -9,8 +9,8 @@ An overarching goal of my research is improving predictions of the ecological co
 
 I use a variety of modeling tools and data sources across scales to inform predictions of terrestrial vegetation change. Below, I describe my current research efforts, my future research directions synthesizing my previous work, and previous research projects.
 
-<figure style="float:center; text-align:center; display:block; margin:0 auto;">
-  <img src="/images/across_scales_applications.png" alt="Figure 1" style="display:block; width:70%; text-align:center; margin:0-top:8px;">
+<figure style="text-align:center; display:block; margin:0 auto;">
+  <img src="/images/across_scales_applications.png" alt="Figure 1" style="display:block; width:70%; text-align:center;">
   <figcaption>
     Using models and data at multiple scales to constrain long-term predictions of terrestrial vegetation dynamics. The thick, green line represents how vegetation is predicted to change over time. Different data streams inform the processes operating at different time scales.
   </figcaption>
@@ -18,7 +18,7 @@ I use a variety of modeling tools and data sources across scales to inform predi
 
 ## Ongoing projects
 
-### [Collaborative, interdisciplinary research in ecological forecasting](https://amwillson.github.io/research-forecasting)
+### [Collaborative, interdisciplinary research in ecological forecasting](https://amwillson.github.io/research-forecasting/)
 
 I approach my research within the framework of [ecological forecasting](https://ecoforecast.org), an emerging field that integrates environmental science, statistics, decision science, and climate science with the goal of making quantitative, decision-relevant predictions by combining models and data.
 
