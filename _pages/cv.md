@@ -46,6 +46,45 @@ editor_options:
 * Investigated climate sensitivity of Appalachian forests
 * Produced forecats of the impact of past land use change and land management decisions on future forest resilience to climate change
 
+## HONORS \& AWARDS
+<hr style='width:100%; border:1px solid #000; margin-bottom:5px; margin-top:0px'>
+<div style="display:flex; justify-content:space-between;">
+  <span>University of Notre Dame Eli J. and Helen Shaheen Graduate School Award in Science</span>
+  <span>2025</span>
+</div>
+<div style="display:flex; justify-content:space-between;">
+  <span>University of Notre Dame Biology Exemplary Graduate Student Career Award</span>
+  <span>2025</span>
+</div>
+<div style="display:flex; justify-content:space-between;">
+  <span>JT Callahan Memorial Student Travel Award</span>
+  <span>2023</span>
+</div>
+<div style="display:flex; justify-content:space-between;">
+  <span>Striving for Excellence in College and University Teaching</span>
+  <span>2022</span>
+</div>
+<div style="display:flex; justify-content:space-between;">
+  <span>Aquinas College Outstanding Spanish Department Senior</span>
+  <span>2019</span>
+</div>
+<div style="display:flex; justify-content:space-between;">
+  <span>Aquinas College Outstanding Biology Department Senior</span>
+  <span>2018</span>
+</div>
+<div style="display:flex; justify-content:space-between;">
+  <span>Aquinas College Sophomore Class Oustanding Student</span>
+  <span>2016</span>
+</div>
+<div style="display:flex; justify-content:space-between;">
+  <span>Aquinas College Outstanding Chemistry Department First Year</span>
+  <span>2016</span>
+</div>
+<div style="display:flex; justify-content:space-between;">
+  <span>Aquinas College Outstanding First Year Student</span>
+  <span>2015</span>
+</div>
+
 ## Research Experience
 
 **University of Notre Dame**                                                                                                                     Notre Dame, IN\
