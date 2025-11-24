@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-### PUBLICATIONS IN PRESS & REVIEW
+## PUBLICATIONS IN PRESS & REVIEW
 
 Adey, A. K., Hughes, R. H., <b>Willson, A. M.</b>, Hamlet, A. F., O'Reilly, K. E., Curtis, E., Lamberti, G. A. (<i>in press</i>). "Thermal  sensitivity of subarctic wetlands to climate change." <i>Commun. Earth Environ.</i>
 
