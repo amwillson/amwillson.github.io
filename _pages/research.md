@@ -11,7 +11,7 @@ An overarching goal of my research is improving predictions of the ecological co
 
 <figure style="display: flex; align-items: flex-start; gap: 20px; margin: 20px auto; max-widdth: 90%; justify-content: center">
   <img src="/images/across_scales_applications.png" alt="Figure 1" style="max-width: 60%; height; auto; flex-shrink: 0;">
-  <figcaption style="font-style: italic; flex: 1; min-width: 200px; align-self: center;">
+  <figcaption style="font-style: italic; flex: 1; min-width: 100px; align-self: center;">
     Using models and data at multiple scales to constrain long-term predictions of terrestrial vegetation dynamics. The thick, green line represents how vegetation is predicted to change over time. Different data streams inform the processes operating at different time scales.
   </figcaption>
 </figure>
