@@ -13,7 +13,7 @@ Hello! I am currently a postdoctoral researcher in the  [Ecosystem Physiology \&
 
 ### [Research interests](https://amwillson.github.io/research/)
 
-Broadly, I am interested in improving our ability to predict changes in terrestrial community composition, species range distributions, and biome distributions. I use a variety of modeling tools and data across scales to quantify how changes in vegetation during observational time scales (the last $\approx$ 50 years) scale up to long-term changes in communities, ecosystems, and biomes. I use the eastern United States as a study system, which has undergone substantial changes as a consequence of anthropogenic land use and climate changes over the few centuries. Learn more about my research [here](https://amwillson.github.io/research/)!
+Broadly, I am interested in improving our ability to predict changes in terrestrial community composition, species range distributions, and biome distributions. I use a variety of modeling tools and data across scales to quantify how changes in vegetation during observational time scales (the last ~50 years) scale up to long-term changes in communities, ecosystems, and biomes. I use the eastern United States as a study system, which has undergone substantial changes as a consequence of anthropogenic land use and climate changes over the few centuries. Learn more about my research [here](https://amwillson.github.io/research/)!
 
 ### Teaching interests
 

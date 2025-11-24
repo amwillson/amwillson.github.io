@@ -185,7 +185,7 @@ archive-single-talk-cv.html %} {% endfor %}</ul>
   <span>Ecological Society of America Annual Meeting Abstract Review Committee Member</span>
   <span>2024-26</span>
 </div>
-* Reviewed $\approx$ 100 abstracts per year submitted to the Ecological Society of America annual meetings
+* Reviewed ~100 abstracts per year submitted to the Ecological Society of America annual meetings
 
 <div style="display:flex; justify-content:space-between;">
   <span>American Geophysical Union Outstanding Student Presentation Award Reviewer</span>
