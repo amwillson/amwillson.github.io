@@ -1,23 +1,123 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching & Mentoring"
 permalink: /teaching/
 author_profile: true
 ---
 
-## Mentoring
+As a quantitative ecologist with a passion for teaching, my mission is to foster quantitative skills in a way that promotes confidence and competency for all students. I approach my teaching and mentorship using the framework of ecological forecasting. My pedagogical research highlights the utility of ecological forecasting for teaching ecological theory and quantitative skills in a context that is compelling to students ([Willson *et al.* 2023](https://amwillson.github.io/publication/willson-etal-2023/)). I also incorporate inclusive pedagogical approaches into my teaching and mentorship, including culturally-relevant instruction and the gradual release of responsibility.
 
-As a graduate student, I have priortized mentoring undergraduate students both at the University of Notre Dame and at collaborating institutions. I believe that mentoring is one of the most important aspects of being an academic because of the direct impact that mentorship has on students. My advising philosophy centers the student, such that I support students through research to reach their career goals. This begins by identifying overlap between my research interests and the student's research interests or career goals, and continues as students learn and apply quantitative skills and scientific theory. I firmly believe that all students are capable of conducting quantitative research, which is reflected in the breadth of students whom I have advised, ranging from students studying applied mathematics to students studying environmental science with no computational background.
+## Mentorship
 
-Through the Ecological Forecasting Initiative, I have mentored seven students over two years from California State Polytechnic University, Humboldt. The objective of this cross-institutional program was to introduce undergraduate students within the Louis Stokes Alliances for Minority Participation program to methods in ecological forecasting. Six students spent a semester-long internship learning conceptually about the methods and theory of ecological forecasting via a series of open access educational resources. Two of those students continued their ecological forecasting education as summer researchers, where they each developed ecological forecasts of lake and stream temperature and dissolved oxygen, which they successfully submitted to the NEON Ecological Forecasting Challenge and are now co-authors on a publication about the Forecasting Challenge. Another student investigated the representation of self-reinforcing vegetation feedbacks in forest ecosystem process models and presented his findings at the Geoscience Alliance conference.
+### University of Notre Dame
 
-At Notre Dame, I have advised two students on independent research projects over the course of several years in the McLachlan lab. Hayden Gallo, a former undergraduate student in the Applied and Computational Mathematics and Statistics department and current graduate student at the University of Massachussetts Chan Medical School, applied to work with me to apply his statistical background to specific scientific research. Based on his interests, he first worked on my project assessing the accessibility and availability of resources for learning ecological forecasting by contributing to statistical analyses in the project. As a result, he is the second author on [my publication](https://doi.org/10.1002/ece3.10001) related to ecological forecasting education. Hayden then went on to impelment an extensive sensitivity analysis of the parameters in the forest gap model LINKAGES for a summer indendent research project. Here, he was given more independence to research and apply innovative statistical techniques to understand sensitivity of aboveground biomass predictions from LINKAGES to parameterization and climate driver uncertainty.
+I mentored a number of Notre Dame undergraduate students on projects related to my dissertation work.
 
-Ian Shuman, an undergraduate biology major, worked with me to quantify the relationship between vegetation occurrences and environmental covariates across Illinois and Indiana prior to widespread European settlement. Ian came to me with extensive knowledge of the historical occurrence data, as well as foundational understanding of drivers of large-scale vegetation distributions. Based on his background and interests, I focused on supplying Ian with the computational tools required to address his research questions. Ian is now a graduate student at Columbia University and his research is in preparation to be submitted to *Ecography* in 2024.
+<div style="display:flex; justify-content:space-between;">
+  <span>Chloe Friend</span>
+  <span>January-May 2023</span>
+</div>
+* Analyzed the relationship between climate and tree growth using tree ring records
+
+<div style="display:flex; justify-content:space-between;">
+  <span>Santana Almeida</span>
+  <span>January-May 2023</span>
+</div>
+* Analyzed the relationship between climate and tree growth using tree ring records
+
+<div style="display:flex; justify-content:space-between;">
+  <span>Ian Shuman</span>
+  <span>July 2022-December 2024</span>
+</div>
+* Digitized Public Land Survey System records
+* Standardized and scaled geospatial environmental data using GIS
+* Developed a model quantifying the environment-vegetation relationship prior to EuroAmerican settlement in the Midwest, USA
+* Wrote a first-author manuscript on which I serve as senior author ([Shuman *et al.* in review](https://amwillson.github.io/publications/))
+* Co-authored my first-author manuscript ([Willson *et al.* in review](https://amwillson.github.io/publications/))
+* Presented at the Ecological Society of America and American Geophysical Union annual meetings
+
+<div style="display:flex; justify-content:space-between;">
+  <span>Hayden Gallo</span>
+  <span>September 2021-August 2023</span>
+</div>
+* Searched for ecological forecasting educational resources and university courses
+* Analyzed data on the availability of ecological forecasting resources ([Willson *et al.* 2023](https://amwillson.github.io/publication/willson-etal-2023); includes Gallo as co-author)
+* Analyzed joint parameter sensitivity in the forest gap model LINKAGES
+* Identified unsupported process representation in LINKAGES using model-data fusion
+
+<div style="display:flex; justify-content:space-between;">
+  <span>Ryan Elkins</span>
+  <span>May 2021-May 2022</span>
+</div>
+* Ran cliamte data formatting and downscaling code on Notre Dame's Research Computing Cluster
+
+<div style="display:flex; justify-content:space-between;">
+  <span>Mitchell Larson</span>
+  <span>January 2020-May 2021
+</div>
+* Parameterized the LINKAGES forest gap model using open-access data
+* Debugged the translation of LINKAGES from Fortran to R
+
+<div style="display:flex; justify-content:space-between;">
+  <span>Daniel Marshalla</span>
+  <span>Summer 2020</span>
+</div>
+* Served as graduate mentor for the University of Notre Dame Environmental Research Center undergraduate program
+* Developed a model of spring phenology using citizen science data (iNaturalist)
+
+### California State Polytechnic University--Humboldt
+
+I developed an ecological forecasting mentorship program in partnership with California State Polytechnic University--Humboldt. Students in this mentorship program all participated in the Louis Stokes Alliance for Minority Participation program.
+
+<div style="display:flex; justify-context:space-between;">
+  <span>Brenden Chavez</span>
+  <span>May-August 2022</span>
+</div>
+* Compared the representation of vegetation-environment feedbacks in forest ecosystem models (LINKAGES & LPJ-GUESS)
+* Synthesized literature and analyzed code related to feedbacks in LINKAGES and LPJ-GUESS
+* Presented at the Geoscience Alliance 2022 conference
+
+<div style="display:flex; justify-context:space-between;">
+  <span>Pricilla Ceja</span>
+  <span>January-August 2021</span>
+</div>
+* Used educational resources I collated to learn the basics of ecological forecasting
+* Completed weekly reflections to apply the curriculum to the student's lived experiences
+* Contributed an ecological forecast of water temperature and dissolved oxygen to the EFI NEON Ecological Forecast Challenge
+* Received co-authorship on a manuscript for contributing to the Challenge ([Thomas *et al.* 2023](https://amwillson.github.io/publication/thomas-etal-2023))
+
+<div style="display:flex; justify-context:space-between;">
+  <span>Briana Ruiz</span>
+  <span>January-August 2021</span>
+</div>
+* Used educational resources I collated to learn the basics of ecological forecasting
+* Completed weekly reflections to apply the curriculum to the student's lived experiences
+* Contributed an ecological forecast of water temperature and dissolved oxygen to the EFI NEON Ecological Forecast Challenge
+* Received co-authorship on a manuscript for contributing to the Challenge ([Thomas *et al.* 2023](https://amwillson.github.io/publication/thomas-etal-2023))
+
+<div style="display:flex; justify-context:space-between;">
+  <span>Nick Salgado Stanley</span>
+  <span>January-May 2021</span>
+</div>
+* Used educational resources I collated to learn the basics of ecological forecasting
+* Completed weekly reflections to apply the curriculum to the student's lived experiences
+* Continued to participate in ecological forecasting scholarship
+
+<div style="display:flex; justify-context:space-between;">
+  <span>Leighanna Jake</span>
+  <span>January-May 2021</span>
+</div>
+* Used educational resources I collated to learn the basics of ecological forecasting
+* Completed weekly reflections to apply the curriculum to the student's lived experiences
+
+<div style="display:flex; justify-context:space-between;">
+  <span>Maudesty Merino</span>
+  <span>January-May 2021</span>
+</div>
+* Used educational resources I collated to learn the basics of ecological forecasting
+* Completed weekly reflections to apply the curriculum to the student's lived experiences
 
 ## Classroom teaching
-
-I have three semesters of experience as a teaching assistant at Notre Dame, as well as a background in inclusive pedagogy.
 
 ### Teaching assistantships
 
@@ -39,3 +139,4 @@ I have three semesters of experience as a teaching assistant at Notre Dame, as w
 
 * Attended University of Notre Dame Inclusive Pedagogy Short Course (Winter 2021)
 * Co-organized two workshops for the Ecological Forecasting Initiative on inclusive pedagogy and ecological forecasting education (Summer 2021)
+* Ongoing member of the Education and Diversity, Equity, and Inclusion Working Groups in the [Ecological Forecasting Initative](https://ecoforecast.org)
