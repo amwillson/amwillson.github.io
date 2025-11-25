@@ -150,8 +150,6 @@ archive-single-cv.html %} {% endfor %}</ul>
 <ul>{% for post in site.talks reversed %} {% include
 archive-single-talk-cv.html %} {% endfor %}</ul>
 
-<p style="margin-top:12px;"><sup>†</sup>Denotes undergraduate advisee</p>
-
 ## TEACHING EXPERIENCE
 <hr style='width:100%; border:1px solid #000; margin-bottom:5px; margin-top:0px'>
 <div style="display:flex; justify-content:space-between;">
