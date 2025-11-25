@@ -53,7 +53,7 @@ I mentored a number of Notre Dame undergraduate students on projects related to 
 
 <div style="display:flex; justify-content:space-between;">
   <span>Mitchell Larson</span>
-  <span>January 2020-May 2021
+  <span>January 2020-May 2021</span>
 </div>
 * Parameterized the LINKAGES forest gap model using open-access data
 * Debugged the translation of LINKAGES from Fortran to R
