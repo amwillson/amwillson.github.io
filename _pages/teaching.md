@@ -14,19 +14,19 @@ As a quantitative ecologist with a passion for teaching, my mission is to foster
 I mentored a number of Notre Dame undergraduate students on projects related to my dissertation work.
 
 <div style="display:flex; justify-content:space-between;">
-  <span>Chloe Friend</span>
+  <span><b>Chloe Friend</b></span>
   <span>January-May 2023</span>
 </div>
 * Analyzed the relationship between climate and tree growth using tree ring records
 
 <div style="display:flex; justify-content:space-between;">
-  <span>Santana Almeida</span>
+  <span><b>Santana Almeida</b></span>
   <span>January-May 2023</span>
 </div>
 * Analyzed the relationship between climate and tree growth using tree ring records
 
 <div style="display:flex; justify-content:space-between;">
-  <span>Ian Shuman</span>
+  <span><b>Ian Shuman</b></span>
   <span>July 2022-December 2024</span>
 </div>
 * Digitized Public Land Survey System records
@@ -37,7 +37,7 @@ I mentored a number of Notre Dame undergraduate students on projects related to 
 * Presented at the Ecological Society of America and American Geophysical Union annual meetings
 
 <div style="display:flex; justify-content:space-between;">
-  <span>Hayden Gallo</span>
+  <span><b>Hayden Gallo</b></span>
   <span>September 2021-August 2023</span>
 </div>
 * Searched for ecological forecasting educational resources and university courses
@@ -46,20 +46,20 @@ I mentored a number of Notre Dame undergraduate students on projects related to 
 * Identified unsupported process representation in LINKAGES using model-data fusion
 
 <div style="display:flex; justify-content:space-between;">
-  <span>Ryan Elkins</span>
+  <span><b>Ryan Elkins</b></span>
   <span>May 2021-May 2022</span>
 </div>
 * Ran climate data formatting and downscaling code on Notre Dame's Research Computing Cluster
 
 <div style="display:flex; justify-content:space-between;">
-  <span>Mitchell Larson</span>
+  <span><b>Mitchell Larson</b></span>
   <span>January 2020-May 2021</span>
 </div>
 * Parameterized the LINKAGES forest gap model using open-access data
 * Debugged the translation of LINKAGES from Fortran to R
 
 <div style="display:flex; justify-content:space-between;">
-  <span>Daniel Marshalla</span>
+  <span><b>Daniel Marshalla</b></span>
   <span>Summer 2020</span>
 </div>
 * Served as graduate mentor for the University of Notre Dame Environmental Research Center undergraduate program
@@ -70,7 +70,7 @@ I mentored a number of Notre Dame undergraduate students on projects related to 
 I developed an ecological forecasting mentorship program in partnership with California State Polytechnic University--Humboldt. Students in this mentorship program all participated in the Louis Stokes Alliance for Minority Participation program.
 
 <div style="display:flex; justify-content:space-between;">
-  <span>Brenden Chavez</span>
+  <span><b>Brenden Chavez</b></span>
   <span>May-August 2022</span>
 </div>
 * Compared the representation of vegetation-environment feedbacks in forest ecosystem models (LINKAGES & LPJ-GUESS)
@@ -78,7 +78,7 @@ I developed an ecological forecasting mentorship program in partnership with Cal
 * Presented at the Geoscience Alliance 2022 conference
 
 <div style="display:flex; justify-content:space-between;">
-  <span>Pricilla Ceja</span>
+  <span><b>Pricilla Ceja</b></span>
   <span>January-August 2021</span>
 </div>
 * Used educational resources I collated to learn the basics of ecological forecasting
@@ -87,7 +87,7 @@ I developed an ecological forecasting mentorship program in partnership with Cal
 * Received co-authorship on a manuscript for contributing to the Challenge ([Thomas *et al.* 2023](https://amwillson.github.io/publication/thomas-etal-2023))
 
 <div style="display:flex; justify-content:space-between;">
-  <span>Briana Ruiz</span>
+  <span><b>Briana Ruiz</b></span>
   <span>January-August 2021</span>
 </div>
 * Used educational resources I collated to learn the basics of ecological forecasting
@@ -96,7 +96,7 @@ I developed an ecological forecasting mentorship program in partnership with Cal
 * Received co-authorship on a manuscript for contributing to the Challenge ([Thomas *et al.* 2023](https://amwillson.github.io/publication/thomas-etal-2023))
 
 <div style="display:flex; justify-content:space-between;">
-  <span>Nick Salgado Stanley</span>
+  <span><b>Nick Salgado Stanley</b></span>
   <span>January-May 2021</span>
 </div>
 * Used educational resources I collated to learn the basics of ecological forecasting
@@ -104,14 +104,14 @@ I developed an ecological forecasting mentorship program in partnership with Cal
 * Continued to participate in ecological forecasting scholarship
 
 <div style="display:flex; justify-content:space-between;">
-  <span>Leighanna Jake</span>
+  <span><b>Leighanna Jake</b></span>
   <span>January-May 2021</span>
 </div>
 * Used educational resources I collated to learn the basics of ecological forecasting
 * Completed weekly reflections to apply the curriculum to the student's lived experiences
 
 <div style="display:flex; justify-content:space-between;">
-  <span>Maudesty Merino</span>
+  <span><b>Maudesty Merino</b></span>
   <span>January-May 2021</span>
 </div>
 * Used educational resources I collated to learn the basics of ecological forecasting
