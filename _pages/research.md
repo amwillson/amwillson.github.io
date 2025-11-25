@@ -5,14 +5,14 @@ permalink: /research/
 author_profile: true
 ---
 
-An overarching goal of my research is improving predictions of the ecological consequences of climate change in a way that is relevant to environmental decision-making. Terrestrial ecosystems present a particular challenge for prediction because the response of long-lived terrestrial vegetation to present-day stressors will only become fully apparent decades to centuries into the future, the timescale most relevant to long-term infrastructural climate adaptation. Therefore, modern empirical records, which are used to build predictive models, cannot fully constrain the relationship between climate and vegetation change. I use a variety of modeling tools and data sources across scales to inform predictions of terrestrial vegetation change. 
+An overarching goal of my research is improving predictions of how ecosystems will change as a result of climate change. Terrestrial ecosystems present a particular challenge for prediction because the response of long-lived terrestrial vegetation to present-day stressors will only become fully apparent decades to centuries into the future. Therefore, modern empirical records, which are used to build predictive models, cannot fully constrain the relationship between climate and vegetation change. I use a variety of modeling tools and data sources across scales to inform predictions of terrestrial vegetation change over ecologically-relevant timescales.
 
 **Click on the links below to find out more about my ongoing research efforts, future research directions, and completed research projects!**
 
-<figure style="display: flex; align-items: flex-start; gap: 20px; margin: 20px auto; max-widdth: 90%; justify-content: center">
+<figure style="display: flex; align-items: flex-start; gap: 20px; margin: 20px auto; max-width: 90%; justify-content: center">
   <img src="/images/across_scales_applications.png" alt="Figure 1" style="max-width: 60%; height; auto; flex-shrink: 0;">
   <figcaption style="font-style: italic; flex: 1; min-width: 100px; align-self: center;">
-    Using models and data at multiple scales to constrain long-term predictions of terrestrial vegetation dynamics. The thick, green line represents how vegetation is predicted to change over time. Different data streams inform the processes operating at different time scales.
+    Using models and data at multiple scales to constrain long-term predictions of terrestrial vegetation dynamics. The thick, green line represents how vegetation is predicted to change over time. Different data streams inform the processes operating at different time scales, all of which contribute to improving predictions.
   </figcaption>
 </figure>
 
@@ -20,7 +20,7 @@ An overarching goal of my research is improving predictions of the ecological co
 
 ### [Collaborative, interdisciplinary research in ecological forecasting](https://amwillson.github.io/research/forecasting/)
 
-I approach my research within the framework of [ecological forecasting](https://ecoforecast.org), an emerging field that integrates environmental science, statistics, decision science, and climate science with the goal of making quantitative, decision-relevant predictions by combining models and data.
+I approach my research within the framework of [ecological forecasting](https://ecoforecast.org). Framing my science in terms of ecological forecasting allows me to simultaneously advance basic research on environmental change while making predictions that can inform policy and management of terrestrial ecosystems.
 
 ### [Model-data fusion as hypothesis testing](https://amwillson.github.io/research/model-data-fusion/)
 

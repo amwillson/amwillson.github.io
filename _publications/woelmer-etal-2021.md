@@ -1,7 +1,7 @@
 ---
 title: "Ten simple rules for training yourself in an emerging field"
 collection: publications
-permalink: /publication/2021-ten-simple-rules-number-1
+permalink: /publication/woelmer-etal-2021
 excerpt: 'This paper provides recommendations for graduate students in emerging disciplines, from a group of early career scientists in the emerging field of ecological forecasting.'
 date: 2021-10-28
 venue: 'PLoS Computational Biology'
