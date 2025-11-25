@@ -121,7 +121,7 @@ I developed an ecological forecasting mentorship program in partnership with Cal
 
 ### Teaching assistantships
 
-<div style="display:flex; justify-context:space-between;">
+<div style="display:flex; justify-content:space-between;">
   <span>Biostatistics Tutorial</span>
   <span>Spring 2021</span>
 </div>
@@ -130,7 +130,7 @@ I developed an ecological forecasting mentorship program in partnership with Cal
 * Led live-coding sessions to introduce students to statistical modeling software
 * Graded weekly assignments and final projects analyzing data using R
 
-<div style="display:flex; justify-context:space-between;">
+<div style="display:flex; justify-content:space-between;">
   <span>Molecules to Ecosystems</span>
   <span>Spring 2020</span>
 </div>
@@ -138,9 +138,10 @@ I developed an ecological forecasting mentorship program in partnership with Cal
 * Held review sessions prior to exams
 * Graded weekly assignments and exams
 
-<div style="display:flex; justify-context:space-between;">
+<div style="display:flex; justify-content:space-between;">
   <span>Big Questions</span>
   <span>Fall 2019</span>
+</div>
 * Course for incoming first year biology majors on topics specific to instructors' research areas
 * Developed two lectures on the relationship between vegetation and climate change over large spatio-temporal scales
 * Graded weekly assignments and final projects (video assignments and paper analyses)
