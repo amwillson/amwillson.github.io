@@ -7,7 +7,7 @@ author_profile: true
 
 An overarching goal of my research is improving predictions of the ecological consequences of climate change in a way that is relevant to environmental decision-making. Terrestrial ecosystems present a particular challenge for prediction because the response of long-lived terrestrial vegetation to present-day stressors will only become fully apparent decades to centuries into the future, the timescale most relevant to long-term infrastructural climate adaptation. Therefore, modern empirical records, which are used to build predictive models, cannot fully constrain the relationship between climate and vegetation change. I use a variety of modeling tools and data sources across scales to inform predictions of terrestrial vegetation change. 
 
-**Click on the links below to find out more about my ongoing research efforts, future research directions, and completed research projects.**
+**Click on the links below to find out more about my ongoing research efforts, future research directions, and completed research projects!**
 
 <figure style="display: flex; align-items: flex-start; gap: 20px; margin: 20px auto; max-widdth: 90%; justify-content: center">
   <img src="/images/across_scales_applications.png" alt="Figure 1" style="max-width: 60%; height; auto; flex-shrink: 0;">
