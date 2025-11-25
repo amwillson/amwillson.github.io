@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-As a quantitative ecologist with a passion for teaching, my mission is to foster quantitative skills in a way that promotes confidence and competency for all students. I approach my teaching and mentorship using the framework of ecological forecasting. My pedagogical research highlights the utility of ecological forecasting for teaching ecological theory and quantitative skills in a context that is compelling to students ([Willson *et al.* 2023](https://amwillson.github.io/publication/willson-etal-2023/)). I also incorporate inclusive pedagogical approaches into my teaching and mentorship, including culturally-relevant instruction and the gradual release of responsibility.
+As a quantitative ecologist with a passion for teaching, my mission is to foster quantitative skills in a way that promotes confidence and competency for all students. I approach my teaching and mentorship using the framework of ecological forecasting. My pedagogical research highlights the utility of ecological forecasting for teaching ecological theory and quantitative skills in a context that is compelling to students ([Willson *et al.* 2023](https://amwillson.github.io/publication/willson-etal-2023)). I also incorporate inclusive pedagogical approaches into my teaching and mentorship, including culturally-relevant instruction and the gradual release of responsibility.
 
 ## Mentorship
 
