@@ -49,7 +49,7 @@ I mentored a number of Notre Dame undergraduate students on projects related to 
   <span>Ryan Elkins</span>
   <span>May 2021-May 2022</span>
 </div>
-* Ran cliamte data formatting and downscaling code on Notre Dame's Research Computing Cluster
+* Ran climate data formatting and downscaling code on Notre Dame's Research Computing Cluster
 
 <div style="display:flex; justify-content:space-between;">
   <span>Mitchell Larson</span>
@@ -69,7 +69,7 @@ I mentored a number of Notre Dame undergraduate students on projects related to 
 
 I developed an ecological forecasting mentorship program in partnership with California State Polytechnic University--Humboldt. Students in this mentorship program all participated in the Louis Stokes Alliance for Minority Participation program.
 
-<div style="display:flex; justify-context:space-between;">
+<div style="display:flex; justify-content:space-between;">
   <span>Brenden Chavez</span>
   <span>May-August 2022</span>
 </div>
@@ -77,7 +77,7 @@ I developed an ecological forecasting mentorship program in partnership with Cal
 * Synthesized literature and analyzed code related to feedbacks in LINKAGES and LPJ-GUESS
 * Presented at the Geoscience Alliance 2022 conference
 
-<div style="display:flex; justify-context:space-between;">
+<div style="display:flex; justify-content:space-between;">
   <span>Pricilla Ceja</span>
   <span>January-August 2021</span>
 </div>
@@ -86,7 +86,7 @@ I developed an ecological forecasting mentorship program in partnership with Cal
 * Contributed an ecological forecast of water temperature and dissolved oxygen to the EFI NEON Ecological Forecast Challenge
 * Received co-authorship on a manuscript for contributing to the Challenge ([Thomas *et al.* 2023](https://amwillson.github.io/publication/thomas-etal-2023))
 
-<div style="display:flex; justify-context:space-between;">
+<div style="display:flex; justify-content:space-between;">
   <span>Briana Ruiz</span>
   <span>January-August 2021</span>
 </div>
@@ -95,7 +95,7 @@ I developed an ecological forecasting mentorship program in partnership with Cal
 * Contributed an ecological forecast of water temperature and dissolved oxygen to the EFI NEON Ecological Forecast Challenge
 * Received co-authorship on a manuscript for contributing to the Challenge ([Thomas *et al.* 2023](https://amwillson.github.io/publication/thomas-etal-2023))
 
-<div style="display:flex; justify-context:space-between;">
+<div style="display:flex; justify-content:space-between;">
   <span>Nick Salgado Stanley</span>
   <span>January-May 2021</span>
 </div>
@@ -103,14 +103,14 @@ I developed an ecological forecasting mentorship program in partnership with Cal
 * Completed weekly reflections to apply the curriculum to the student's lived experiences
 * Continued to participate in ecological forecasting scholarship
 
-<div style="display:flex; justify-context:space-between;">
+<div style="display:flex; justify-content:space-between;">
   <span>Leighanna Jake</span>
   <span>January-May 2021</span>
 </div>
 * Used educational resources I collated to learn the basics of ecological forecasting
 * Completed weekly reflections to apply the curriculum to the student's lived experiences
 
-<div style="display:flex; justify-context:space-between;">
+<div style="display:flex; justify-content:space-between;">
   <span>Maudesty Merino</span>
   <span>January-May 2021</span>
 </div>
@@ -121,19 +121,29 @@ I developed an ecological forecasting mentorship program in partnership with Cal
 
 ### Teaching assistantships
 
-* Big Questions (Fall 2019)
-  * Course for incoming first year biology majors on topics specific to instructors' research areas
-  * Developed two lectures on the relationship between vegetation and climate change over large spatio-temporal scales
-  * Graded weekly assignments and final projects (video assignments and paper analyses)
-* Molecules to Ecosystems (Spring 2020)
-  * Course for incoming first year biology majors offering a broad overview of biology as a discipline
-  * Held review sessions prior to exams
-  * Graded weekly assignments and exams
-* Biostatistics Lab (Spring 2021)
-  * Undergraduate course for biology majors using the R statistical software
-  * Developed weekly lab lectures
-  * Led live-coding sessions to introduce students to statistical modeling software
-  * Graded weekly assignments and final projects analyzing data using R
+<div style="display:flex; justify-context:space-between;">
+  <span>Biostatistics Tutorial</span>
+  <span>Spring 2021</span>
+</div>
+* Undergraduate course for biology majors using the R statistical software
+* Developed weekly lab lectures
+* Led live-coding sessions to introduce students to statistical modeling software
+* Graded weekly assignments and final projects analyzing data using R
+
+<div style="display:flex; justify-context:space-between;">
+  <span>Molecules to Ecosystems</span>
+  <span>Spring 2020</span>
+</div>
+* Course for incoming first year biology majors offering a broad overview of biology as a discipline
+* Held review sessions prior to exams
+* Graded weekly assignments and exams
+
+<div style="display:flex; justify-context:space-between;">
+  <span>Big Questions</span>
+  <span>Fall 2019</span>
+* Course for incoming first year biology majors on topics specific to instructors' research areas
+* Developed two lectures on the relationship between vegetation and climate change over large spatio-temporal scales
+* Graded weekly assignments and final projects (video assignments and paper analyses)
 
 ### Inclusive pedagogy experience
 
