@@ -92,8 +92,7 @@ archive-single-cv.html %} {% endfor %}</ul>
 
 ### PUBLICATIONS IN PRESS & REVIEW
 
-* Adey, A. K., Hughes, R. H., **Willson, A. M.**, Hamlet, A. F., O'Reilly, K. E., Curtis, E., Lamberti, G. A. (*in press)*. "Thermal sensitivity of subarctic wetlands to climate change." *Commun. Earth Environ.*
-* **Willson, A. M.**, O'Grady, H., Guaita, P. R., Shuman, I. N. C.<sup>†</sup>, Dawson, A., Crippa, P., McLachlan, J. S. (*in review)*. "Vegetation was not uniformly in equilibrium with climate during a period of climate stability." *Ecology*
+* **Willson, A. M.**, O'Grady, H., Guaita, P. R., Shuman, I. N. C.<sup>†</sup>, Dawson, A., Crippa, P., McLachlan, J. S. (*in review)*. "Vegetation was not uniformly in equilibrium with climate during a period of climate stability." *Ecosphere*
 * Shuman, I. N. C.<sup>†</sup>, McLachlan, J. S., Peters, J. A., Heilman, K. A., Kowalski, C., **Willson, A. M.** (*in review*). "Both environmental gradients and feedbacks determine the historical distribution of forest, savanna, and prairie ecosystems in the Midwestern United States." *Ecography*
 * Sjodin, A., Stokes, G., Gallagher, C., Javadian, M., Lewis, A., Schreiner, C., Super, L., Tuschhoff, B., **Willson, A. M.**, Dietze, M., McLachlan, J., Peters, J. (*in review*). "Toward a standard lexicon for ecological forecasting." *Front. Ecol. Environ.*
 
